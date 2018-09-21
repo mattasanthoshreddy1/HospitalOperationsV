@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalOperationsV", "HospitalOperationsV\HospitalOperationsV.csproj", "{FE781F2B-CF13-4F5E-9F34-EA1223F37013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesOperation", "EntitiesOperation\EntitiesOperation.csproj", "{0137677E-9A45-4304-ACEE-AF07E461FFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE781F2B-CF13-4F5E-9F34-EA1223F37013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE781F2B-CF13-4F5E-9F34-EA1223F37013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE781F2B-CF13-4F5E-9F34-EA1223F37013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE781F2B-CF13-4F5E-9F34-EA1223F37013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0137677E-9A45-4304-ACEE-AF07E461FFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0137677E-9A45-4304-ACEE-AF07E461FFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0137677E-9A45-4304-ACEE-AF07E461FFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0137677E-9A45-4304-ACEE-AF07E461FFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
